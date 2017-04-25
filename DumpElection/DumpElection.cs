@@ -352,8 +352,6 @@ namespace DumpElection
             }
 
             File.WriteAllText("elections.csv", sb.ToString());
-
-            Console.ReadKey();
         }
 
         public DumpElection()
