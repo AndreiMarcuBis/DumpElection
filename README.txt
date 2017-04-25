@@ -13,3 +13,5 @@ The console will remaing empty until the first one has been processed.
 
 When done or if an error occurs, the console will automatically close.
 If the process was successful a file "elections.csv" is created in the DumpElection/bin/Debug or DumpElection/bin/Release repositor depending on you current configuration.
+
+A dump can be found at : https://linx.li/elections.csv
